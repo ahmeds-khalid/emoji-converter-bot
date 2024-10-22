@@ -168,4 +168,4 @@ async def on_message(message):
 
     await bot.process_commands(message)
 
-bot.run('MTI2MzkwMDE2NjI3MzEwNTk2MA.GHIYRr.35B6VqKfJlDgR4YiH5QvGkkaqIcdIOCd6rLm04')
+bot.run(Token)
